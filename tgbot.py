@@ -1,18 +1,14 @@
 import os
 from dotenv import load_dotenv
 
+#получить список слов, хранящихся в файле vocab.py
+from vocab import vocab
+
 load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN")
 
 from telegram import Update, ForceReply
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
-
-# Пример словаря
-vocab = {
-    "bus": "автобус",
-    "apple": "яблоко",
-    "dog": "собака"
-}
 
 user_data = {}
 
