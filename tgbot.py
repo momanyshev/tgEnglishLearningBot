@@ -39,7 +39,7 @@ async def send_word(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if lang == "английский":
         data["current_word"] = word_en
         data["expected_answer"] = word_ru
-        await update.message.reply_text(f"Переведи: {word_en}")
+        await update.message.reply_text(f"Translate: {word_en}")
     else:
         data["current_word"] = word_ru
         data["expected_answer"] = word_en
@@ -60,15 +60,22 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await update.message.reply_text("Произошла ошибка. Попробуй /start сначала.")
             return
 
-        user_answer = text
-        correct_answer = user_data[chat_id]["expected_answer"].lower()
+        user_answer = update.message.text.strip().lower().replace("’", "'")
+        correct_answer = user_data[chat_id]["expected_answer"].strip().lower().replace("’", "'")
+
 
         if user_answer == correct_answer:
             await update.message.reply_text("✅ Done!")
+            await send_word(update, context)  # даём следующее слово
         else:
             await update.message.reply_text(f"❌ Incorrect. Correct answer: {correct_answer}")
-
-        await send_word(update, context)
+            # Повторно просим перевести то же слово
+            lang = user_data[chat_id]["lang"]
+            current_word = user_data[chat_id]["current_word"]
+            if lang == "английский":
+                await update.message.reply_text(f"Try again: {current_word}")
+            else:
+                await update.message.reply_text(f"Попробуй ещё раз: {current_word}")
 
 app = ApplicationBuilder().token(TOKEN).build()
 

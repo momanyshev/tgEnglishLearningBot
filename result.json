@@ -212,15 +212,15 @@
    "type": "message",
    "date": "2025-03-26T22:58:09",
    "date_unixtime": "1743019089",
-   "edited": "2025-04-01T23:22:24",
-   "edited_unixtime": "1743538944",
+   "edited": "2025-05-04T21:04:13",
+   "edited_unixtime": "1746381853",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "charger - ",
     {
      "type": "spoiler",
-     "text": "зарядка"
+     "text": "зарядное устройство"
     },
     ""
    ],
@@ -231,7 +231,7 @@
     },
     {
      "type": "spoiler",
-     "text": "зарядка"
+     "text": "зарядное устройство"
     },
     {
      "type": "plain",
@@ -2344,12 +2344,12 @@
    "type": "message",
    "date": "2025-04-02T00:24:32",
    "date_unixtime": "1743542672",
-   "edited": "2025-05-04T18:38:18",
-   "edited_unixtime": "1746373098",
+   "edited": "2025-05-05T13:56:01",
+   "edited_unixtime": "1746442561",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
-    "the same - ",
+    "same - ",
     {
      "type": "spoiler",
      "text": "одинаковый"
@@ -2359,7 +2359,7 @@
    "text_entities": [
     {
      "type": "plain",
-     "text": "the same - "
+     "text": "same - "
     },
     {
      "type": "spoiler",
@@ -2440,13 +2440,15 @@
    "type": "message",
    "date": "2025-04-02T22:01:25",
    "date_unixtime": "1743620485",
+   "edited": "2025-05-04T23:49:45",
+   "edited_unixtime": "1746391785",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "necessary - ",
     {
      "type": "spoiler",
-     "text": "необходимо"
+     "text": "необходимый"
     },
     ""
    ],
@@ -2457,7 +2459,7 @@
     },
     {
      "type": "spoiler",
-     "text": "необходимо"
+     "text": "необходимый"
     },
     {
      "type": "plain",
@@ -2652,10 +2654,12 @@
    "type": "message",
    "date": "2025-04-02T22:24:06",
    "date_unixtime": "1743621846",
+   "edited": "2025-05-05T13:55:31",
+   "edited_unixtime": "1746442531",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
-    "same - ",
+    "the same - ",
     {
      "type": "spoiler",
      "text": "то же самое"
@@ -2665,7 +2669,7 @@
    "text_entities": [
     {
      "type": "plain",
-     "text": "same - "
+     "text": "the same - "
     },
     {
      "type": "spoiler",
@@ -2804,6 +2808,8 @@
    "type": "message",
    "date": "2025-04-10T22:01:19",
    "date_unixtime": "1744311679",
+   "edited": "2025-05-04T23:47:55",
+   "edited_unixtime": "1746391675",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
@@ -3740,13 +3746,15 @@
    "type": "message",
    "date": "2025-04-15T23:09:24",
    "date_unixtime": "1744747764",
+   "edited": "2025-05-04T23:33:51",
+   "edited_unixtime": "1746390831",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "watch - ",
     {
      "type": "spoiler",
-     "text": "смотреть"
+     "text": "присматривать"
     },
     ""
    ],
@@ -3757,7 +3765,7 @@
     },
     {
      "type": "spoiler",
-     "text": "смотреть"
+     "text": "присматривать"
     },
     {
      "type": "plain",
@@ -5032,13 +5040,15 @@
    "type": "message",
    "date": "2025-04-23T21:48:18",
    "date_unixtime": "1745434098",
+   "edited": "2025-05-04T23:38:45",
+   "edited_unixtime": "1746391125",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "jelaous - ",
     {
      "type": "spoiler",
-     "text": "зависть"
+     "text": "желанный"
     },
     ""
    ],
@@ -5049,7 +5059,7 @@
     },
     {
      "type": "spoiler",
-     "text": "зависть"
+     "text": "желанный"
     },
     {
      "type": "plain",
@@ -5246,10 +5256,12 @@
    "type": "message",
    "date": "2025-04-23T22:15:43",
    "date_unixtime": "1745435743",
+   "edited": "2025-05-04T19:44:11",
+   "edited_unixtime": "1746377051",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
-    "It’s a half past seven - ",
+    "It’s half past seven - ",
     {
      "type": "spoiler",
      "text": "половина восьмого"
@@ -5259,7 +5271,7 @@
    "text_entities": [
     {
      "type": "plain",
-     "text": "It’s a half past seven - "
+     "text": "It’s half past seven - "
     },
     {
      "type": "spoiler",
@@ -5396,10 +5408,12 @@
    "type": "message",
    "date": "2025-05-03T14:33:54",
    "date_unixtime": "1746272034",
+   "edited": "2025-05-04T19:37:20",
+   "edited_unixtime": "1746376640",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
-    "miss- ",
+    "miss - ",
     {
      "type": "spoiler",
      "text": "скучать"
@@ -5409,7 +5423,7 @@
    "text_entities": [
     {
      "type": "plain",
-     "text": "miss- "
+     "text": "miss - "
     },
     {
      "type": "spoiler",
@@ -6737,13 +6751,15 @@
    "type": "message",
    "date": "2025-05-03T14:56:24",
    "date_unixtime": "1746273384",
+   "edited": "2025-05-04T23:54:24",
+   "edited_unixtime": "1746392064",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "see - ",
     {
      "type": "spoiler",
-     "text": "видеть/смотреть"
+     "text": "видеть"
     },
     ""
    ],
@@ -6754,7 +6770,7 @@
     },
     {
      "type": "spoiler",
-     "text": "видеть/смотреть"
+     "text": "видеть"
     },
     {
      "type": "plain",
@@ -7969,13 +7985,15 @@
    "type": "message",
    "date": "2025-05-03T17:08:00",
    "date_unixtime": "1746281280",
+   "edited": "2025-05-04T21:01:48",
+   "edited_unixtime": "1746381708",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "turn - ",
     {
      "type": "spoiler",
-     "text": "очерендь"
+     "text": "очередь"
     },
     ""
    ],
@@ -7986,7 +8004,7 @@
     },
     {
      "type": "spoiler",
-     "text": "очерендь"
+     "text": "очередь"
     },
     {
      "type": "plain",
@@ -8767,6 +8785,126 @@
     {
      "type": "spoiler",
      "text": "низкий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 295,
+   "type": "message",
+   "date": "2025-05-04T20:27:20",
+   "date_unixtime": "1746379640",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "terrible - ",
+    {
+     "type": "spoiler",
+     "text": "ужасный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "terrible - "
+    },
+    {
+     "type": "spoiler",
+     "text": "ужасный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 296,
+   "type": "message",
+   "date": "2025-05-04T21:51:00",
+   "date_unixtime": "1746384660",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "shave - ",
+    {
+     "type": "spoiler",
+     "text": "брить"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "shave - "
+    },
+    {
+     "type": "spoiler",
+     "text": "брить"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 297,
+   "type": "message",
+   "date": "2025-05-04T21:57:02",
+   "date_unixtime": "1746385022",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "midnight - ",
+    {
+     "type": "spoiler",
+     "text": "полночь"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "midnight - "
+    },
+    {
+     "type": "spoiler",
+     "text": "полночь"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 298,
+   "type": "message",
+   "date": "2025-05-04T23:44:08",
+   "date_unixtime": "1746391448",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "need - ",
+    {
+     "type": "spoiler",
+     "text": "необходимость"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "need - "
+    },
+    {
+     "type": "spoiler",
+     "text": "необходимость"
     },
     {
      "type": "plain",
