@@ -1636,38 +1636,6 @@
    ]
   },
   {
-   "id": 55,
-   "type": "message",
-   "date": "2025-04-01T23:57:34",
-   "date_unixtime": "1743541054",
-   "edited": "2025-04-01T23:59:54",
-   "edited_unixtime": "1743541194",
-   "from": "Vocabulary",
-   "from_id": "channel2630338185",
-   "text": [
-    "sometimes - ",
-    {
-     "type": "spoiler",
-     "text": "иногда"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "sometimes - "
-    },
-    {
-     "type": "spoiler",
-     "text": "иногда"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": 56,
    "type": "message",
    "date": "2025-04-01T23:57:54",
@@ -2900,10 +2868,12 @@
    "type": "message",
    "date": "2025-04-10T22:02:12",
    "date_unixtime": "1744311732",
+   "edited": "2025-05-25T20:32:05",
+   "edited_unixtime": "1748194325",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
-    "look for - ",
+    "search - ",
     {
      "type": "spoiler",
      "text": "искать"
@@ -2913,7 +2883,7 @@
    "text_entities": [
     {
      "type": "plain",
-     "text": "look for - "
+     "text": "search - "
     },
     {
      "type": "spoiler",
@@ -2930,13 +2900,15 @@
    "type": "message",
    "date": "2025-04-10T22:02:53",
    "date_unixtime": "1744311773",
+   "edited": "2025-05-07T10:12:23",
+   "edited_unixtime": "1746601943",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "look after - ",
     {
      "type": "spoiler",
-     "text": "ухаживать/присматривать"
+     "text": "ухаживать"
     },
     ""
    ],
@@ -2947,7 +2919,7 @@
     },
     {
      "type": "spoiler",
-     "text": "ухаживать/присматривать"
+     "text": "ухаживать"
     },
     {
      "type": "plain",
@@ -3442,13 +3414,15 @@
    "type": "message",
    "date": "2025-04-10T22:46:29",
    "date_unixtime": "1744314389",
+   "edited": "2025-05-27T18:13:24",
+   "edited_unixtime": "1748358804",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "change - ",
     {
      "type": "spoiler",
-     "text": "изменить"
+     "text": "менять"
     },
     ""
    ],
@@ -3459,7 +3433,7 @@
     },
     {
      "type": "spoiler",
-     "text": "изменить"
+     "text": "менять"
     },
     {
      "type": "plain",
@@ -3746,15 +3720,15 @@
    "type": "message",
    "date": "2025-04-15T23:09:24",
    "date_unixtime": "1744747764",
-   "edited": "2025-05-04T23:33:51",
-   "edited_unixtime": "1746390831",
+   "edited": "2025-05-07T10:12:43",
+   "edited_unixtime": "1746601963",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "watch - ",
     {
      "type": "spoiler",
-     "text": "присматривать"
+     "text": "наблюдать"
     },
     ""
    ],
@@ -3765,7 +3739,7 @@
     },
     {
      "type": "spoiler",
-     "text": "присматривать"
+     "text": "наблюдать"
     },
     {
      "type": "plain",
@@ -4796,36 +4770,6 @@
    ]
   },
   {
-   "id": 162,
-   "type": "message",
-   "date": "2025-04-16T00:24:47",
-   "date_unixtime": "1744752287",
-   "from": "Vocabulary",
-   "from_id": "channel2630338185",
-   "text": [
-    "what kind of - ",
-    {
-     "type": "spoiler",
-     "text": "какой"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "what kind of - "
-    },
-    {
-     "type": "spoiler",
-     "text": "какой"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": 164,
    "type": "message",
    "date": "2025-04-23T14:35:10",
@@ -5288,10 +5232,12 @@
    "type": "message",
    "date": "2025-04-23T22:17:22",
    "date_unixtime": "1745435842",
+   "edited": "2025-05-25T20:15:04",
+   "edited_unixtime": "1748193304",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
-    "It’s tventy to ten - ",
+    "It’s twenty to ten - ",
     {
      "type": "spoiler",
      "text": "20 минут до 10"
@@ -5301,7 +5247,7 @@
    "text_entities": [
     {
      "type": "plain",
-     "text": "It’s tventy to ten - "
+     "text": "It’s twenty to ten - "
     },
     {
      "type": "spoiler",
@@ -5922,20 +5868,15 @@
    "type": "message",
    "date": "2025-05-03T14:43:26",
    "date_unixtime": "1746272606",
-   "edited": "2025-05-03T14:48:33",
-   "edited_unixtime": "1746272913",
+   "edited": "2025-05-25T20:26:34",
+   "edited_unixtime": "1748193994",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "I would like to - ",
     {
      "type": "spoiler",
-     "text": "Я буду"
-    },
-    "\nI wouldn't like ... - ",
-    {
-     "type": "spoiler",
-     "text": "Я не хочу"
+     "text": "Я бы хотел"
     },
     ""
    ],
@@ -5946,15 +5887,7 @@
     },
     {
      "type": "spoiler",
-     "text": "Я буду"
-    },
-    {
-     "type": "plain",
-     "text": "\nI wouldn't like ... - "
-    },
-    {
-     "type": "spoiler",
-     "text": "Я не хочу"
+     "text": "Я бы хотел"
     },
     {
      "type": "plain",
@@ -6121,13 +6054,15 @@
    "type": "message",
    "date": "2025-05-03T14:47:03",
    "date_unixtime": "1746272823",
+   "edited": "2025-05-17T16:59:32",
+   "edited_unixtime": "1747490372",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "during - ",
     {
      "type": "spoiler",
-     "text": "в течении"
+     "text": "в течение"
     },
     ""
    ],
@@ -6138,7 +6073,7 @@
     },
     {
      "type": "spoiler",
-     "text": "в течении"
+     "text": "в течение"
     },
     {
      "type": "plain",
@@ -7861,36 +7796,6 @@
    ]
   },
   {
-   "id": 264,
-   "type": "message",
-   "date": "2025-05-03T17:03:50",
-   "date_unixtime": "1746281030",
-   "from": "Vocabulary",
-   "from_id": "channel2630338185",
-   "text": [
-    "late - ",
-    {
-     "type": "spoiler",
-     "text": "поздний"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "late - "
-    },
-    {
-     "type": "spoiler",
-     "text": "поздний"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": 265,
    "type": "message",
    "date": "2025-05-03T17:05:22",
@@ -8167,13 +8072,15 @@
    "type": "message",
    "date": "2025-05-04T18:33:47",
    "date_unixtime": "1746372827",
+   "edited": "2025-06-16T17:14:37",
+   "edited_unixtime": "1750083277",
    "from": "Vocabulary",
    "from_id": "channel2630338185",
    "text": [
     "ugly - ",
     {
      "type": "spoiler",
-     "text": "страшный"
+     "text": "уродливый"
     },
     ""
    ],
@@ -8184,7 +8091,7 @@
     },
     {
      "type": "spoiler",
-     "text": "страшный"
+     "text": "уродливый"
     },
     {
      "type": "plain",
@@ -8905,6 +8812,3254 @@
     {
      "type": "spoiler",
      "text": "необходимость"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 299,
+   "type": "message",
+   "date": "2025-05-05T19:57:58",
+   "date_unixtime": "1746464278",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "additional - ",
+    {
+     "type": "spoiler",
+     "text": "дополнительный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "additional - "
+    },
+    {
+     "type": "spoiler",
+     "text": "дополнительный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "type": "message",
+   "date": "2025-05-05T20:06:53",
+   "date_unixtime": "1746464813",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "judge - ",
+    {
+     "type": "spoiler",
+     "text": "судья"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "judge - "
+    },
+    {
+     "type": "spoiler",
+     "text": "судья"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 301,
+   "type": "message",
+   "date": "2025-05-05T20:16:09",
+   "date_unixtime": "1746465369",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "match - ",
+    {
+     "type": "spoiler",
+     "text": "совпадение"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "match - "
+    },
+    {
+     "type": "spoiler",
+     "text": "совпадение"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 302,
+   "type": "message",
+   "date": "2025-05-05T20:16:40",
+   "date_unixtime": "1746465400",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "meaning - ",
+    {
+     "type": "spoiler",
+     "text": "совпадение"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "meaning - "
+    },
+    {
+     "type": "spoiler",
+     "text": "совпадение"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 303,
+   "type": "message",
+   "date": "2025-05-13T22:09:59",
+   "date_unixtime": "1747163399",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "neighbours - ",
+    {
+     "type": "spoiler",
+     "text": "соседи"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "neighbours - "
+    },
+    {
+     "type": "spoiler",
+     "text": "соседи"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "type": "message",
+   "date": "2025-05-13T22:10:20",
+   "date_unixtime": "1747163420",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "quite - ",
+    {
+     "type": "spoiler",
+     "text": "довольно таки"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "quite - "
+    },
+    {
+     "type": "spoiler",
+     "text": "довольно таки"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "type": "message",
+   "date": "2025-05-13T22:10:50",
+   "date_unixtime": "1747163450",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "mean - ",
+    {
+     "type": "spoiler",
+     "text": "означать"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mean - "
+    },
+    {
+     "type": "spoiler",
+     "text": "означать"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "type": "message",
+   "date": "2025-05-13T22:11:10",
+   "date_unixtime": "1747163470",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "can - ",
+    {
+     "type": "spoiler",
+     "text": "мочь"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "can - "
+    },
+    {
+     "type": "spoiler",
+     "text": "мочь"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 307,
+   "type": "message",
+   "date": "2025-05-13T22:11:28",
+   "date_unixtime": "1747163488",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "quiet - ",
+    {
+     "type": "spoiler",
+     "text": "тихий"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "quiet - "
+    },
+    {
+     "type": "spoiler",
+     "text": "тихий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "type": "message",
+   "date": "2025-05-13T22:11:51",
+   "date_unixtime": "1747163511",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "hate - ",
+    {
+     "type": "spoiler",
+     "text": "ненавидеть"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hate - "
+    },
+    {
+     "type": "spoiler",
+     "text": "ненавидеть"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 309,
+   "type": "message",
+   "date": "2025-05-13T22:12:16",
+   "date_unixtime": "1747163536",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "cry - ",
+    {
+     "type": "spoiler",
+     "text": "плакать"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "cry - "
+    },
+    {
+     "type": "spoiler",
+     "text": "плакать"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "type": "message",
+   "date": "2025-05-13T22:12:35",
+   "date_unixtime": "1747163555",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "practice - ",
+    {
+     "type": "spoiler",
+     "text": "практика"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "practice - "
+    },
+    {
+     "type": "spoiler",
+     "text": "практика"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "type": "message",
+   "date": "2025-05-13T22:12:49",
+   "date_unixtime": "1747163569",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "barks - ",
+    {
+     "type": "spoiler",
+     "text": "лаять"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "barks - "
+    },
+    {
+     "type": "spoiler",
+     "text": "лаять"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 312,
+   "type": "message",
+   "date": "2025-05-13T22:13:32",
+   "date_unixtime": "1747163612",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "noisy - ",
+    {
+     "type": "spoiler",
+     "text": "шумный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "noisy - "
+    },
+    {
+     "type": "spoiler",
+     "text": "шумный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "type": "message",
+   "date": "2025-05-13T22:13:39",
+   "date_unixtime": "1747163619",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "loud - ",
+    {
+     "type": "spoiler",
+     "text": "громкий"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "loud - "
+    },
+    {
+     "type": "spoiler",
+     "text": "громкий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 314,
+   "type": "message",
+   "date": "2025-05-13T22:13:55",
+   "date_unixtime": "1747163635",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "argue - ",
+    {
+     "type": "spoiler",
+     "text": "ссориться"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "argue - "
+    },
+    {
+     "type": "spoiler",
+     "text": "ссориться"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 315,
+   "type": "message",
+   "date": "2025-05-13T22:15:57",
+   "date_unixtime": "1747163757",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "victory - ",
+    {
+     "type": "spoiler",
+     "text": "победа"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "victory - "
+    },
+    {
+     "type": "spoiler",
+     "text": "победа"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 316,
+   "type": "message",
+   "date": "2025-05-13T22:16:33",
+   "date_unixtime": "1747163793",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "celebrate - ",
+    {
+     "type": "spoiler",
+     "text": "отмечать"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "celebrate - "
+    },
+    {
+     "type": "spoiler",
+     "text": "отмечать"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 317,
+   "type": "message",
+   "date": "2025-05-13T22:20:54",
+   "date_unixtime": "1747164054",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "relatives - ",
+    {
+     "type": "spoiler",
+     "text": "родственники"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "relatives - "
+    },
+    {
+     "type": "spoiler",
+     "text": "родственники"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 318,
+   "type": "message",
+   "date": "2025-05-13T22:21:35",
+   "date_unixtime": "1747164095",
+   "edited": "2025-05-17T17:13:43",
+   "edited_unixtime": "1747491223",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "that means - ",
+    {
+     "type": "spoiler",
+     "text": "это значит"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "that means - "
+    },
+    {
+     "type": "spoiler",
+     "text": "это значит"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 319,
+   "type": "message",
+   "date": "2025-05-13T22:25:07",
+   "date_unixtime": "1747164307",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "argue - ",
+    {
+     "type": "spoiler",
+     "text": "спорить"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "argue - "
+    },
+    {
+     "type": "spoiler",
+     "text": "спорить"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 320,
+   "type": "message",
+   "date": "2025-05-13T22:30:53",
+   "date_unixtime": "1747164653",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "have - ",
+    {
+     "type": "spoiler",
+     "text": "иметь"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "have - "
+    },
+    {
+     "type": "spoiler",
+     "text": "иметь"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "type": "message",
+   "date": "2025-05-13T22:31:56",
+   "date_unixtime": "1747164716",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "well - ",
+    {
+     "type": "spoiler",
+     "text": "хорошо"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "well - "
+    },
+    {
+     "type": "spoiler",
+     "text": "хорошо"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 322,
+   "type": "message",
+   "date": "2025-05-13T22:32:43",
+   "date_unixtime": "1747164763",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "get on - ",
+    {
+     "type": "spoiler",
+     "text": "ладить"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "get on - "
+    },
+    {
+     "type": "spoiler",
+     "text": "ладить"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 323,
+   "type": "message",
+   "date": "2025-05-13T22:34:37",
+   "date_unixtime": "1747164877",
+   "edited": "2025-05-13T22:35:50",
+   "edited_unixtime": "1747164950",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "hardly ever - ",
+    {
+     "type": "spoiler",
+     "text": "почти никогда"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hardly ever - "
+    },
+    {
+     "type": "spoiler",
+     "text": "почти никогда"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "type": "message",
+   "date": "2025-05-17T16:46:27",
+   "date_unixtime": "1747489587",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "fright - ",
+    {
+     "type": "spoiler",
+     "text": "испуг"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "fright - "
+    },
+    {
+     "type": "spoiler",
+     "text": "испуг"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 326,
+   "type": "message",
+   "date": "2025-05-25T20:26:13",
+   "date_unixtime": "1748193973",
+   "edited": "2025-05-25T20:27:48",
+   "edited_unixtime": "1748194068",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "I wouldn't like ... - ",
+    {
+     "type": "spoiler",
+     "text": "Мне бы не хотелось"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I wouldn't like ... - "
+    },
+    {
+     "type": "spoiler",
+     "text": "Мне бы не хотелось"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "type": "message",
+   "date": "2025-05-27T18:09:17",
+   "date_unixtime": "1748358557",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "drug - ",
+    {
+     "type": "spoiler",
+     "text": "медикамент"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "drug - "
+    },
+    {
+     "type": "spoiler",
+     "text": "медикамент"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 328,
+   "type": "message",
+   "date": "2025-05-27T18:40:26",
+   "date_unixtime": "1748360426",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "prison - ",
+    {
+     "type": "spoiler",
+     "text": "тюрьма"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "prison - "
+    },
+    {
+     "type": "spoiler",
+     "text": "тюрьма"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 329,
+   "type": "message",
+   "date": "2025-05-27T18:49:07",
+   "date_unixtime": "1748360947",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "trust - ",
+    {
+     "type": "spoiler",
+     "text": "доверять"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "trust - "
+    },
+    {
+     "type": "spoiler",
+     "text": "доверять"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 330,
+   "type": "message",
+   "date": "2025-06-16T17:02:20",
+   "date_unixtime": "1750082540",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "I'm shy - ",
+    {
+     "type": "spoiler",
+     "text": "Я стесняюсь"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm shy - "
+    },
+    {
+     "type": "spoiler",
+     "text": "Я стесняюсь"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 331,
+   "type": "message",
+   "date": "2025-06-16T17:02:47",
+   "date_unixtime": "1750082567",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "pretty - ",
+    {
+     "type": "spoiler",
+     "text": "симпатичная"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pretty - "
+    },
+    {
+     "type": "spoiler",
+     "text": "симпатичная"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "type": "message",
+   "date": "2025-06-16T17:03:04",
+   "date_unixtime": "1750082584",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "I'm confused - ",
+    {
+     "type": "spoiler",
+     "text": "Я в замешательстве"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm confused - "
+    },
+    {
+     "type": "spoiler",
+     "text": "Я в замешательстве"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 333,
+   "type": "message",
+   "date": "2025-06-16T17:03:15",
+   "date_unixtime": "1750082595",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "I'm wonderful - ",
+    {
+     "type": "spoiler",
+     "text": "Я замечательный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm wonderful - "
+    },
+    {
+     "type": "spoiler",
+     "text": "Я замечательный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 334,
+   "type": "message",
+   "date": "2025-06-16T17:03:28",
+   "date_unixtime": "1750082608",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "I'm pretty well - ",
+    {
+     "type": "spoiler",
+     "text": "Я чувствую себя довольно хорошо"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm pretty well - "
+    },
+    {
+     "type": "spoiler",
+     "text": "Я чувствую себя довольно хорошо"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 335,
+   "type": "message",
+   "date": "2025-06-16T17:03:45",
+   "date_unixtime": "1750082625",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "I'm still alive - ",
+    {
+     "type": "spoiler",
+     "text": "Я всё ещё жив"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm still alive - "
+    },
+    {
+     "type": "spoiler",
+     "text": "Я всё ещё жив"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 336,
+   "type": "message",
+   "date": "2025-06-16T17:04:20",
+   "date_unixtime": "1750082660",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "I'm not great - ",
+    {
+     "type": "spoiler",
+     "text": "Я не так уж хорош"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm not great - "
+    },
+    {
+     "type": "spoiler",
+     "text": "Я не так уж хорош"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 337,
+   "type": "message",
+   "date": "2025-06-16T17:04:29",
+   "date_unixtime": "1750082669",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "landscapes - ",
+    {
+     "type": "spoiler",
+     "text": "природные ландшафты"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "landscapes - "
+    },
+    {
+     "type": "spoiler",
+     "text": "природные ландшафты"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 338,
+   "type": "message",
+   "date": "2025-06-16T17:04:37",
+   "date_unixtime": "1750082677",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "nature - ",
+    {
+     "type": "spoiler",
+     "text": "природа"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nature - "
+    },
+    {
+     "type": "spoiler",
+     "text": "природа"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 339,
+   "type": "message",
+   "date": "2025-06-16T17:05:24",
+   "date_unixtime": "1750082724",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "desert - ",
+    {
+     "type": "spoiler",
+     "text": "пустыня"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "desert - "
+    },
+    {
+     "type": "spoiler",
+     "text": "пустыня"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 340,
+   "type": "message",
+   "date": "2025-06-16T17:05:31",
+   "date_unixtime": "1750082731",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "dessert - ",
+    {
+     "type": "spoiler",
+     "text": "десерт"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "dessert - "
+    },
+    {
+     "type": "spoiler",
+     "text": "десерт"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "type": "message",
+   "date": "2025-06-16T17:05:44",
+   "date_unixtime": "1750082744",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "forest - ",
+    {
+     "type": "spoiler",
+     "text": "лес"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "forest - "
+    },
+    {
+     "type": "spoiler",
+     "text": "лес"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "type": "message",
+   "date": "2025-06-16T17:05:53",
+   "date_unixtime": "1750082753",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "hills - ",
+    {
+     "type": "spoiler",
+     "text": "холмы"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hills - "
+    },
+    {
+     "type": "spoiler",
+     "text": "холмы"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 343,
+   "type": "message",
+   "date": "2025-06-16T17:06:02",
+   "date_unixtime": "1750082762",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "river - ",
+    {
+     "type": "spoiler",
+     "text": "река"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "river - "
+    },
+    {
+     "type": "spoiler",
+     "text": "река"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 344,
+   "type": "message",
+   "date": "2025-06-16T17:07:25",
+   "date_unixtime": "1750082845",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "lake - ",
+    {
+     "type": "spoiler",
+     "text": "озеро"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lake - "
+    },
+    {
+     "type": "spoiler",
+     "text": "озеро"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 345,
+   "type": "message",
+   "date": "2025-06-16T17:07:33",
+   "date_unixtime": "1750082853",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "mountains - ",
+    {
+     "type": "spoiler",
+     "text": "горы"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mountains - "
+    },
+    {
+     "type": "spoiler",
+     "text": "горы"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 346,
+   "type": "message",
+   "date": "2025-06-16T17:07:41",
+   "date_unixtime": "1750082861",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "North - ",
+    {
+     "type": "spoiler",
+     "text": "север"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "North - "
+    },
+    {
+     "type": "spoiler",
+     "text": "север"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 347,
+   "type": "message",
+   "date": "2025-06-16T17:07:47",
+   "date_unixtime": "1750082867",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "South - ",
+    {
+     "type": "spoiler",
+     "text": "юг"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "South - "
+    },
+    {
+     "type": "spoiler",
+     "text": "юг"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 348,
+   "type": "message",
+   "date": "2025-06-16T17:07:54",
+   "date_unixtime": "1750082874",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "West - ",
+    {
+     "type": "spoiler",
+     "text": "запад"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "West - "
+    },
+    {
+     "type": "spoiler",
+     "text": "запад"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 349,
+   "type": "message",
+   "date": "2025-06-16T17:08:03",
+   "date_unixtime": "1750082883",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "East - ",
+    {
+     "type": "spoiler",
+     "text": "восток"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "East - "
+    },
+    {
+     "type": "spoiler",
+     "text": "восток"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 350,
+   "type": "message",
+   "date": "2025-06-16T17:08:10",
+   "date_unixtime": "1750082890",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "describe - ",
+    {
+     "type": "spoiler",
+     "text": "описывать"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "describe - "
+    },
+    {
+     "type": "spoiler",
+     "text": "описывать"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 351,
+   "type": "message",
+   "date": "2025-06-16T17:08:18",
+   "date_unixtime": "1750082898",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "deep - ",
+    {
+     "type": "spoiler",
+     "text": "глубокий"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "deep - "
+    },
+    {
+     "type": "spoiler",
+     "text": "глубокий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "type": "message",
+   "date": "2025-06-16T17:08:26",
+   "date_unixtime": "1750082906",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "huge - ",
+    {
+     "type": "spoiler",
+     "text": "огромный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "huge - "
+    },
+    {
+     "type": "spoiler",
+     "text": "огромный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 353,
+   "type": "message",
+   "date": "2025-06-16T17:08:33",
+   "date_unixtime": "1750082913",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "wide - ",
+    {
+     "type": "spoiler",
+     "text": "широкий"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "wide - "
+    },
+    {
+     "type": "spoiler",
+     "text": "широкий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 354,
+   "type": "message",
+   "date": "2025-06-16T17:08:49",
+   "date_unixtime": "1750082929",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "especially - ",
+    {
+     "type": "spoiler",
+     "text": "особенно"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "especially - "
+    },
+    {
+     "type": "spoiler",
+     "text": "особенно"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 355,
+   "type": "message",
+   "date": "2025-06-16T17:09:19",
+   "date_unixtime": "1750082959",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "sunbathe - ",
+    {
+     "type": "spoiler",
+     "text": "загорать"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "sunbathe - "
+    },
+    {
+     "type": "spoiler",
+     "text": "загорать"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 356,
+   "type": "message",
+   "date": "2025-06-16T17:09:26",
+   "date_unixtime": "1750082966",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "certainly - ",
+    {
+     "type": "spoiler",
+     "text": "конечно"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "certainly - "
+    },
+    {
+     "type": "spoiler",
+     "text": "конечно"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 357,
+   "type": "message",
+   "date": "2025-06-16T17:09:38",
+   "date_unixtime": "1750082978",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "unfortunately - ",
+    {
+     "type": "spoiler",
+     "text": "к сожалению"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "unfortunately - "
+    },
+    {
+     "type": "spoiler",
+     "text": "к сожалению"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 358,
+   "type": "message",
+   "date": "2025-06-16T17:09:45",
+   "date_unixtime": "1750082985",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "wet - ",
+    {
+     "type": "spoiler",
+     "text": "мокрый"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "wet - "
+    },
+    {
+     "type": "spoiler",
+     "text": "мокрый"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 359,
+   "type": "message",
+   "date": "2025-06-16T17:09:53",
+   "date_unixtime": "1750082993",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "possible - ",
+    {
+     "type": "spoiler",
+     "text": "возможный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "possible - "
+    },
+    {
+     "type": "spoiler",
+     "text": "возможный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 360,
+   "type": "message",
+   "date": "2025-06-16T17:10:00",
+   "date_unixtime": "1750083000",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "sunburned - ",
+    {
+     "type": "spoiler",
+     "text": "загорелый"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "sunburned - "
+    },
+    {
+     "type": "spoiler",
+     "text": "загорелый"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 361,
+   "type": "message",
+   "date": "2025-06-16T17:10:24",
+   "date_unixtime": "1750083024",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "thoughts - ",
+    {
+     "type": "spoiler",
+     "text": "мысли"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "thoughts - "
+    },
+    {
+     "type": "spoiler",
+     "text": "мысли"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 362,
+   "type": "message",
+   "date": "2025-06-16T17:11:56",
+   "date_unixtime": "1750083116",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "dry - ",
+    {
+     "type": "spoiler",
+     "text": "сухой"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "dry - "
+    },
+    {
+     "type": "spoiler",
+     "text": "сухой"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 363,
+   "type": "message",
+   "date": "2025-06-16T17:13:13",
+   "date_unixtime": "1750083193",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "own - ",
+    {
+     "type": "spoiler",
+     "text": "собственный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "own - "
+    },
+    {
+     "type": "spoiler",
+     "text": "собственный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 364,
+   "type": "message",
+   "date": "2025-06-16T17:13:20",
+   "date_unixtime": "1750083200",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "quite - ",
+    {
+     "type": "spoiler",
+     "text": "довольно"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "quite - "
+    },
+    {
+     "type": "spoiler",
+     "text": "довольно"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 365,
+   "type": "message",
+   "date": "2025-06-16T17:13:27",
+   "date_unixtime": "1750083207",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "quiet - ",
+    {
+     "type": "spoiler",
+     "text": "тихий"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "quiet - "
+    },
+    {
+     "type": "spoiler",
+     "text": "тихий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 366,
+   "type": "message",
+   "date": "2025-06-16T17:13:36",
+   "date_unixtime": "1750083216",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "exciting - ",
+    {
+     "type": "spoiler",
+     "text": "захватывающий"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "exciting - "
+    },
+    {
+     "type": "spoiler",
+     "text": "захватывающий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 367,
+   "type": "message",
+   "date": "2025-06-16T17:13:44",
+   "date_unixtime": "1750083224",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "violent - ",
+    {
+     "type": "spoiler",
+     "text": "насильственный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "violent - "
+    },
+    {
+     "type": "spoiler",
+     "text": "насильственный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 368,
+   "type": "message",
+   "date": "2025-06-16T17:13:53",
+   "date_unixtime": "1750083233",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "scary - ",
+    {
+     "type": "spoiler",
+     "text": "страшный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "scary - "
+    },
+    {
+     "type": "spoiler",
+     "text": "страшный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 369,
+   "type": "message",
+   "date": "2025-06-16T17:16:59",
+   "date_unixtime": "1750083419",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "clever - ",
+    {
+     "type": "spoiler",
+     "text": "умный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "clever - "
+    },
+    {
+     "type": "spoiler",
+     "text": "умный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 370,
+   "type": "message",
+   "date": "2025-06-16T17:17:10",
+   "date_unixtime": "1750083430",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "villain - ",
+    {
+     "type": "spoiler",
+     "text": "злодей"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "villain - "
+    },
+    {
+     "type": "spoiler",
+     "text": "злодей"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 371,
+   "type": "message",
+   "date": "2025-06-16T17:17:23",
+   "date_unixtime": "1750083443",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "meaning - ",
+    {
+     "type": "spoiler",
+     "text": "значение"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "meaning - "
+    },
+    {
+     "type": "spoiler",
+     "text": "значение"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 372,
+   "type": "message",
+   "date": "2025-06-16T17:17:30",
+   "date_unixtime": "1750083450",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "totally - ",
+    {
+     "type": "spoiler",
+     "text": "полностью"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "totally - "
+    },
+    {
+     "type": "spoiler",
+     "text": "полностью"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 373,
+   "type": "message",
+   "date": "2025-06-16T18:06:45",
+   "date_unixtime": "1750086405",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "absolutely - ",
+    {
+     "type": "spoiler",
+     "text": "абсолютно"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "absolutely - "
+    },
+    {
+     "type": "spoiler",
+     "text": "абсолютно"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 374,
+   "type": "message",
+   "date": "2025-06-16T18:06:58",
+   "date_unixtime": "1750086418",
+   "edited": "2025-06-16T18:07:09",
+   "edited_unixtime": "1750086429",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "definitely - ",
+    {
+     "type": "spoiler",
+     "text": "определённо"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "definitely - "
+    },
+    {
+     "type": "spoiler",
+     "text": "определённо"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 375,
+   "type": "message",
+   "date": "2025-06-16T18:07:05",
+   "date_unixtime": "1750086425",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "heavy - ",
+    {
+     "type": "spoiler",
+     "text": "тяжёлый"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "heavy - "
+    },
+    {
+     "type": "spoiler",
+     "text": "тяжёлый"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 376,
+   "type": "message",
+   "date": "2025-06-16T18:07:16",
+   "date_unixtime": "1750086436",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "calm - ",
+    {
+     "type": "spoiler",
+     "text": "спокойный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "calm - "
+    },
+    {
+     "type": "spoiler",
+     "text": "спокойный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 377,
+   "type": "message",
+   "date": "2025-06-16T18:07:23",
+   "date_unixtime": "1750086443",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "thoughtful - ",
+    {
+     "type": "spoiler",
+     "text": "задумчивый"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "thoughtful - "
+    },
+    {
+     "type": "spoiler",
+     "text": "задумчивый"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 378,
+   "type": "message",
+   "date": "2025-06-16T18:07:30",
+   "date_unixtime": "1750086450",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "awake - ",
+    {
+     "type": "spoiler",
+     "text": "проснуться"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "awake - "
+    },
+    {
+     "type": "spoiler",
+     "text": "проснуться"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 379,
+   "type": "message",
+   "date": "2025-06-16T18:07:37",
+   "date_unixtime": "1750086457",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "relaxed - ",
+    {
+     "type": "spoiler",
+     "text": "расслабленный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "relaxed - "
+    },
+    {
+     "type": "spoiler",
+     "text": "расслабленный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 380,
+   "type": "message",
+   "date": "2025-06-18T22:56:41",
+   "date_unixtime": "1750276601",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "through - ",
+    {
+     "type": "spoiler",
+     "text": "через"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "through - "
+    },
+    {
+     "type": "spoiler",
+     "text": "через"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 381,
+   "type": "message",
+   "date": "2025-06-18T23:04:09",
+   "date_unixtime": "1750277049",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "perhaps - ",
+    {
+     "type": "spoiler",
+     "text": "возможно"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "perhaps - "
+    },
+    {
+     "type": "spoiler",
+     "text": "возможно"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 382,
+   "type": "message",
+   "date": "2025-06-19T23:08:13",
+   "date_unixtime": "1750363693",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "arrive - ",
+    {
+     "type": "spoiler",
+     "text": "прибывать"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "arrive - "
+    },
+    {
+     "type": "spoiler",
+     "text": "прибывать"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 383,
+   "type": "message",
+   "date": "2025-06-19T23:08:32",
+   "date_unixtime": "1750363712",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "comfortable - ",
+    {
+     "type": "spoiler",
+     "text": "удобный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "comfortable - "
+    },
+    {
+     "type": "spoiler",
+     "text": "удобный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 384,
+   "type": "message",
+   "date": "2025-06-19T23:08:54",
+   "date_unixtime": "1750363734",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "decide - ",
+    {
+     "type": "spoiler",
+     "text": "решать"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "decide - "
+    },
+    {
+     "type": "spoiler",
+     "text": "решать"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 385,
+   "type": "message",
+   "date": "2025-06-19T23:09:19",
+   "date_unixtime": "1750363759",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "into - ",
+    {
+     "type": "spoiler",
+     "text": "в"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "into - "
+    },
+    {
+     "type": "spoiler",
+     "text": "в"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 386,
+   "type": "message",
+   "date": "2025-06-19T23:09:52",
+   "date_unixtime": "1750363792",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "palace - ",
+    {
+     "type": "spoiler",
+     "text": "дворец"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "palace - "
+    },
+    {
+     "type": "spoiler",
+     "text": "дворец"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 387,
+   "type": "message",
+   "date": "2025-06-19T23:10:24",
+   "date_unixtime": "1750363824",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "surprised - ",
+    {
+     "type": "spoiler",
+     "text": "удивлённый"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "surprised - "
+    },
+    {
+     "type": "spoiler",
+     "text": "удивлённый"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 388,
+   "type": "message",
+   "date": "2025-06-19T23:11:20",
+   "date_unixtime": "1750363880",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "toward - ",
+    {
+     "type": "spoiler",
+     "text": "в направлении"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "toward - "
+    },
+    {
+     "type": "spoiler",
+     "text": "в направлении"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 389,
+   "type": "message",
+   "date": "2025-06-19T23:11:53",
+   "date_unixtime": "1750363913",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "valuable - ",
+    {
+     "type": "spoiler",
+     "text": "ценный"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "valuable - "
+    },
+    {
+     "type": "spoiler",
+     "text": "ценный"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 390,
+   "type": "message",
+   "date": "2025-06-26T19:27:01",
+   "date_unixtime": "1750955221",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "accordion - ",
+    {
+     "type": "spoiler",
+     "text": "аккордеон"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "accordion - "
+    },
+    {
+     "type": "spoiler",
+     "text": "аккордеон"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 391,
+   "type": "message",
+   "date": "2025-06-26T19:27:42",
+   "date_unixtime": "1750955262",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "bass - ",
+    {
+     "type": "spoiler",
+     "text": "бас"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "bass - "
+    },
+    {
+     "type": "spoiler",
+     "text": "бас"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 392,
+   "type": "message",
+   "date": "2025-06-26T19:28:04",
+   "date_unixtime": "1750955284",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "violin - ",
+    {
+     "type": "spoiler",
+     "text": "скрипка"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "violin - "
+    },
+    {
+     "type": "spoiler",
+     "text": "скрипка"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 393,
+   "type": "message",
+   "date": "2025-06-26T19:29:18",
+   "date_unixtime": "1750955358",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "guitar - ",
+    {
+     "type": "spoiler",
+     "text": "гитара"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "guitar - "
+    },
+    {
+     "type": "spoiler",
+     "text": "гитара"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 394,
+   "type": "message",
+   "date": "2025-06-26T19:30:57",
+   "date_unixtime": "1750955457",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "piano - ",
+    {
+     "type": "spoiler",
+     "text": "пианино"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "piano - "
+    },
+    {
+     "type": "spoiler",
+     "text": "пианино"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 395,
+   "type": "message",
+   "date": "2025-06-26T19:31:25",
+   "date_unixtime": "1750955485",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "drums - ",
+    {
+     "type": "spoiler",
+     "text": "барабаны"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "drums - "
+    },
+    {
+     "type": "spoiler",
+     "text": "барабаны"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 396,
+   "type": "message",
+   "date": "2025-06-26T19:31:52",
+   "date_unixtime": "1750955512",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "keyboard - ",
+    {
+     "type": "spoiler",
+     "text": "синтезатор"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "keyboard - "
+    },
+    {
+     "type": "spoiler",
+     "text": "синтезатор"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 397,
+   "type": "message",
+   "date": "2025-06-26T19:33:01",
+   "date_unixtime": "1750955581",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "trumpet - ",
+    {
+     "type": "spoiler",
+     "text": "труба"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "trumpet - "
+    },
+    {
+     "type": "spoiler",
+     "text": "труба"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 398,
+   "type": "message",
+   "date": "2025-06-26T19:33:21",
+   "date_unixtime": "1750955601",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "saxophone - ",
+    {
+     "type": "spoiler",
+     "text": "саксофон"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "saxophone - "
+    },
+    {
+     "type": "spoiler",
+     "text": "саксофон"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 399,
+   "type": "message",
+   "date": "2025-06-26T19:35:09",
+   "date_unixtime": "1750955709",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "boat - ",
+    {
+     "type": "spoiler",
+     "text": "лодка"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "boat - "
+    },
+    {
+     "type": "spoiler",
+     "text": "лодка"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 400,
+   "type": "message",
+   "date": "2025-06-26T19:35:20",
+   "date_unixtime": "1750955720",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "ship - ",
+    {
+     "type": "spoiler",
+     "text": "корабль"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ship - "
+    },
+    {
+     "type": "spoiler",
+     "text": "корабль"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 401,
+   "type": "message",
+   "date": "2025-06-26T19:35:40",
+   "date_unixtime": "1750955740",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "competition - ",
+    {
+     "type": "spoiler",
+     "text": "соревнование"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "competition - "
+    },
+    {
+     "type": "spoiler",
+     "text": "соревнование"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 402,
+   "type": "message",
+   "date": "2025-06-26T19:35:55",
+   "date_unixtime": "1750955755",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "tournament - ",
+    {
+     "type": "spoiler",
+     "text": "турнир"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tournament - "
+    },
+    {
+     "type": "spoiler",
+     "text": "турнир"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 403,
+   "type": "message",
+   "date": "2025-06-26T19:36:35",
+   "date_unixtime": "1750955795",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "explain - ",
+    {
+     "type": "spoiler",
+     "text": "объяснять"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "explain - "
+    },
+    {
+     "type": "spoiler",
+     "text": "объяснять"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 404,
+   "type": "message",
+   "date": "2025-06-26T19:39:24",
+   "date_unixtime": "1750955964",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "bass player - ",
+    {
+     "type": "spoiler",
+     "text": "басист"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "bass player - "
+    },
+    {
+     "type": "spoiler",
+     "text": "басист"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 405,
+   "type": "message",
+   "date": "2025-06-26T19:39:43",
+   "date_unixtime": "1750955983",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "drummer - ",
+    {
+     "type": "spoiler",
+     "text": "барабанщик"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "drummer - "
+    },
+    {
+     "type": "spoiler",
+     "text": "барабанщик"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 406,
+   "type": "message",
+   "date": "2025-06-26T19:40:08",
+   "date_unixtime": "1750956008",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "keyboard player - ",
+    {
+     "type": "spoiler",
+     "text": "клавишник"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "keyboard player - "
+    },
+    {
+     "type": "spoiler",
+     "text": "клавишник"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 407,
+   "type": "message",
+   "date": "2025-06-26T19:40:31",
+   "date_unixtime": "1750956031",
+   "from": "Vocabulary",
+   "from_id": "channel2630338185",
+   "text": [
+    "trumpeter - ",
+    {
+     "type": "spoiler",
+     "text": "трубач"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "trumpeter - "
+    },
+    {
+     "type": "spoiler",
+     "text": "трубач"
     },
     {
      "type": "plain",
