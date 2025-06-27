@@ -1,11 +1,25 @@
 import os
 from dotenv import load_dotenv
+import traceback
+import requests
 
 #получить список слов, хранящихся в файле vocab.py
 from vocab import vocab
 
 load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN")
+ADMIN_ID = os.getenv("ADMIN_ID")
+
+def notify_admin(error_message):
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+    data = {
+        "chat_id": ADMIN_ID,
+        "text": f"❌ Ошибка в боте:\n{error_message}"
+    }
+    try:
+        requests.post(url, data=data)
+    except Exception as e:
+        print("Ошибка при отправке уведомления:", e)
 
 from telegram import Update, ForceReply
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
@@ -83,4 +97,9 @@ app = ApplicationBuilder().token(TOKEN).build()
 app.add_handler(CommandHandler("start", start))
 app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
-app.run_polling()
+try:
+    app.run_polling()
+except Exception as e:
+    error = traceback.format_exc()
+    notify_admin(error)
+    raise
